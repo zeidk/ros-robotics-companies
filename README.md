@@ -6,7 +6,7 @@
 
 A public list of companies that are known to use the Robot Operating System (ROS and ROS 2) or any of its related tools for development, to create products, to offer services or who ship ROS with or as part of their product(s). Ordered alphabetically. See [criteria](#criteria) for more details.
 
-### Active companies
+### Active Companies
 <!-- !companies! -->
 | Company | Description | Year Founded| 
 |---------|-------------|------|
